@@ -1,5 +1,5 @@
 <?php
-	class GruenbeckSD extends IPSModule {
+	class Gruenbeck extends IPSModule {
 
 		public function Create()
 		{
