@@ -1,0 +1,14 @@
+{
+    "id": "{040A890B-82B2-EFCF-BE08-FF67735D40A9}",
+    "author": "Brovning",
+    "name": "GruenbeckSD",
+    "url": "https://github.com/Brovning/gruenbeck",
+    "type": 3,
+    "vendor": "Grünbeck",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "GSD",
+    "url": ""
+}
