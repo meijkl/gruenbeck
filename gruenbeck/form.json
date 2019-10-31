@@ -13,7 +13,7 @@
         {
             "type": "Button",
             "caption": "Login",
-            "onClick": "GSD_Login($id);"
+            "onClick": "GB_Login($id);"
         }
     ]
 }
