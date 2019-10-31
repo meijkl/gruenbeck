@@ -1,14 +1,12 @@
 {
     "id": "{040A890B-82B2-EFCF-BE08-FF67735D40A9}",
     "author": "Brovning",
-    "name": "GruenbeckSD",
+    "name": "Gruenbeck",
     "url": "https://github.com/Brovning/gruenbeck",
-    "type": 3,
-    "vendor": "Grünbeck",
-    "aliases": [],
-    "parentRequirements": [],
-    "childRequirements": [],
-    "implemented": [],
-    "prefix": "GSD",
-    "url": ""
+    "compatibility": {
+        "version": "5.0"
+    },
+    "version": "0.1",
+    "build": 0,
+    "date": 0
 }
