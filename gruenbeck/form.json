@@ -1,0 +1,19 @@
+{
+    "elements": [
+        {
+            "type": "ValidationTextBox",
+            "caption": "Username",
+            "name": "Username"
+        },
+        {
+            "type": "PasswordTextBox",
+            "caption": "Password",
+            "name": "Password"
+        },
+        {
+            "type": "Button",
+            "caption": "Login",
+            "onClick": "GSD_Login($id);"
+        }
+    ]
+}
