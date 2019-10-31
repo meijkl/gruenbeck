@@ -17,4 +17,7 @@
     "childRequirements": [],
     "implemented": [],
     "prefix": "GB",
+    "compatibility": {
+        "version": "5.0"
+    }
 }
