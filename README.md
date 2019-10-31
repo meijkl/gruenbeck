@@ -1,4 +1,4 @@
-# GruenbeckSD
+# Gruenbeck
 Beschreibung des Moduls.
 
 ### Inhaltsverzeichnis
@@ -21,12 +21,12 @@ Beschreibung des Moduls.
 
 ### 3. Software-Installation
 
-* Über den Module Store das 'GruenbeckSD'-Modul installieren.
+* Über den Module Store das 'Gruenbeck'-Modul installieren.
 * Alternativ über das Module Control folgende URL hinzufügen
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
- Unter 'Instanz hinzufügen' ist das 'GruenbeckSD'-Modul unter dem Hersteller 'Grünbeck' aufgeführt.
+ Unter 'Instanz hinzufügen' ist das 'Gruenbeck'-Modul unter dem Hersteller 'Grünbeck' aufgeführt.
 
 __Konfigurationsseite__:
 
