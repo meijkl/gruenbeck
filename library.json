@@ -2,13 +2,19 @@
     "id": "{040A890B-82B2-EFCF-BE08-FF67735D40A9}",
     "author": "Brovning",
     "name": "GruenbeckSD",
-    "url": "https://github.com/Brovning/gruenbeck",
     "type": 3,
-    "vendor": "Grünbeck",
-    "aliases": [],
+    "vendor": "Gruenbeck",
+    "aliases":
+	[
+		"softliQ:SD18",
+		"softliQ:SD20",
+		"softliQ:SD21",
+		"softliQ:MD32",
+		"softliQ:MD38"
+	],
+    "url": "https://github.com/Brovning/gruenbeck",
     "parentRequirements": [],
     "childRequirements": [],
     "implemented": [],
-    "prefix": "GSD",
-    "url": ""
+    "prefix": "GB",
 }
